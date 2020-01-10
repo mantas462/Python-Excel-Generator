@@ -1,0 +1,329 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b826b2f0-a0b5-400c-a9be-193782c4efa7" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/venv/Scripts/Gui.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="3128">
+              <caret line="186" column="25" selection-start-line="186" selection-start-column="25" selection-end-line="186" selection-end-column="25" />
+              <folding>
+                <element signature="e#0#18#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/venv/Scripts/ExcelEditor.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="365">
+              <caret line="86" column="67" selection-start-line="86" selection-start-column="67" selection-end-line="86" selection-end-column="67" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>L'article sera envoyé le même jour.</find>
+      <find>Camiseta de manga corta de alta calidad. Hecho en la EU Francia.</find>
+      <find>o en la EU.;Jersey confeccionado por</find>
+      <find>el método de la serigrafía profesional. Pintura hecha en el Reino Unido.</find>
+      <find>Podría ser un gran regalo para un cumpleaños; Navidad u otra celebración. Escríbenos y nos encargaremos de sorprender a alguien!</find>
+      <find>La camisa está de moda; con estilo para casi cualquier ocasión. Combina perfectamente con cualquier atuendo</find>
+      <find>El artículo será enviado el mismo día.</find>
+      <find>Tshirt a manica corta di alta qualità. Made in EU Francia.</find>
+      <find>realizzato con il metodo della silkografia professionale. Vernice prodotta nel Regno Unito.</find>
+      <find>La camicia è alla moda; elegante per quasi ogni occasione. Abbinamento perfetto con qualsiasi outfit.</find>
+      <find>Abbinabile alla moda, elegante, perfetto con qualsiasi outfit.</find>
+      <find>Potrebbe essere un grande regalo per un compleanno; Natale o altre celebrazioni. Scrivici e ci prenderemo cura della sorpresa per qualcuno!</find>
+      <find>La camicia è alla moda, elegante per quasi ogni occasione. Abbinamento perfetto con qualsiasi outfit.</find>
+      <find>Alla moda; alla moda per quasi ogni occasione. Abbinamento perfetto con qualsiasi outfit.</find>
+      <find>L'oggetto sarà inviato dallo stesso giorno.</find>
+      <find>10</find>
+      <find>priceUK[Number]</find>
+      <find>n;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;GBP</find>
+      <find>on;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;E</find>
+      <find>UK.write(&quot;;Could be gift for a birthday, Christmas or other celebration, write us!;Will be dispatched by the same day.;;;;;;Spring-Summer;Cotton;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;GBP</find>
+      <find>UK.write(&quot;;Could be gift for a birthday, Christmas or other celebration, write us!;Will be dispatched by the same day.;;;;;;Spring-Summer;Cotton;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;GBP</find>
+      <find>Könnte ein Geschenk für einen Geburtstag, Weihnachten oder eine andere Feier sein, schreiben Sie uns!;Wird noch am selben Tag versandt. ;;;;;;Spring-Summer;Cotton;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;E</find>
+      <find>vez-nous!;Sera envoyé le même jour;;;;;;Spring-Summer;Cotton;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;</find>
+      <find>pedito dallo stesso giorno.;;;;;;Spring-Summer;Cotton;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;E</find>
+      <find>ES</find>
+      <find>ES.w</find>
+      <find>otra celebración, escríbenos!;Será enviado el mismo día.;;;;;;Spring-Summer;Cotton;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;E</find>
+      <find>#F2F2F2</find>
+      <find>ES.write(pr</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>Pourrait être un cadeau pour un anniversaire, Noël ou une autre fête, écrivez-nous!</replace>
+      <replace>Sera envoyé le même jour</replace>
+      <replace>Alta calidad. Fabricado en la EU.</replace>
+      <replace>o en la EU.;</replace>
+      <replace>Realizado por el método profesional de la seda.</replace>
+      <replace>Moda, estilo, combinación perfecta con cualquier atuendo.</replace>
+      <replace>Podría ser un regalo para un cumpleaños, navidad u otra celebración, escríbenos!</replace>
+      <replace>Será enviado el mismo día.</replace>
+      <replace>IT.write(&quot;Casual;Regular Fit;Realizzato con il metodo della silkografia professionale.; &quot;)</replace>
+      <replace>Realizzato con il metodo della silkografia professionale.</replace>
+      <replace>Abbinabile alla moda, elegante, perfetto con qualsiasi outfit.</replace>
+      <replace>Potrebbe essere un regalo per un compleanno, Natale o altre celebrazioni, scrivici!</replace>
+      <replace>Sarà spedito dallo stesso giorno.</replace>
+      <replace />
+      <replace>priceUK[Number]</replace>
+      <replace>UK.write(priceUK[Number])</replace>
+      <replace>DE.write(price[Number])</replace>
+      <replace>FR.write(price[Number])</replace>
+      <replace>ES.write(price[Number])</replace>
+      <replace>IT.write(price[Number])</replace>
+      <replace>n;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;GBP</replace>
+      <replace>on;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;E</replace>
+      <replace>UK.write(&quot;;Could be gift for a birthday, Christmas or other celebration, write us!;Will be dispatched by the same day.;;;;;;Spring-Summer;Cotton;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;GBP</replace>
+      <replace>Könnte ein Geschenk für einen Geburtstag, Weihnachten oder eine andere Feier sein, schreiben Sie uns!;Wird noch am selben Tag versandt. ;;;;;;Spring-Summer;Cotton;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;E</replace>
+      <replace>vez-nous!;Sera envoyé le même jour;;;;;;Spring-Summer;Cotton;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;</replace>
+      <replace>pedito dallo stesso giorno.;;;;;;Spring-Summer;Cotton;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;E</replace>
+      <replace>pedito dallo stesso giorno.;;;;;;Spring-Summer;Cotton;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;E</replace>
+      <replace>otra celebración, escríbenos!;Será enviado el mismo día.;;;;;;Spring-Summer;Cotton;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;E</replace>
+      <replace>#FE2E2E</replace>
+    </replaceStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/venv/Scripts/Gui.py" />
+        <option value="$PROJECT_DIR$/venv/Scripts/ExcelEditor.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="494" />
+    <option name="y" value="-8" />
+    <option name="width" value="1296" />
+    <option name="height" value="1000" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="ExcelMakerRomexoj" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ExcelMakerRomexoj" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ExcelMakerRomexoj" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ExcelMakerRomexoj" type="462c0819:PsiDirectoryNode" />
+              <item name="venv" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ExcelMakerRomexoj" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ExcelMakerRomexoj" type="462c0819:PsiDirectoryNode" />
+              <item name="venv" type="462c0819:PsiDirectoryNode" />
+              <item name="Scripts" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ExcelMakerRomexoj" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+            <path>
+              <item name="ExcelMakerRomexoj" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; Python 3.7 (ExcelMakerRomexoj) &gt;" type="70bed36:NamedLibraryElementNode" />
+            </path>
+            <path>
+              <item name="ExcelMakerRomexoj" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; Python 3.7 (ExcelMakerRomexoj) &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="venv" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ExcelMakerRomexoj" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; Python 3.7 (ExcelMakerRomexoj) &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="venv" type="462c0819:PsiDirectoryNode" />
+              <item name="Scripts" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Gui" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="ExcelMakerRomexoj" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/venv/Scripts" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/venv/Scripts/Gui.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.Gui" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b826b2f0-a0b5-400c-a9be-193782c4efa7" name="Default Changelist" comment="" />
+      <created>1564405145685</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1564405145685</updated>
+      <workItem from="1564405163148" duration="1237000" />
+      <workItem from="1564413011013" duration="2745000" />
+      <workItem from="1564423479775" duration="3232000" />
+      <workItem from="1564426823552" duration="631000" />
+      <workItem from="1564491151331" duration="6862000" />
+      <workItem from="1564580519768" duration="10000" />
+      <workItem from="1564581295887" duration="125000" />
+      <workItem from="1564584700525" duration="91000" />
+      <workItem from="1565017378719" duration="351000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="15284000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18070363" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.35063437" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Terminal" order="11" />
+      <window_info anchor="bottom" id="Python Console" order="12" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+    </layout>
+    <layout-to-restore>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17110874" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32936078" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Terminal" order="11" />
+      <window_info anchor="bottom" id="Python Console" order="12" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/ExcelMakerRomexoj$Gui.coverage" NAME="Gui Coverage Results" MODIFIED="1564581310216" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/Scripts" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/venv/Lib/site-packages/pip-19.0.3-py3.7.egg/pip/_internal/models/candidate.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
+          <folding>
+            <element signature="e#0#64#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/Scripts/Gui.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3128">
+          <caret line="186" column="25" selection-start-line="186" selection-start-column="25" selection-end-line="186" selection-end-column="25" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/Scripts/ExcelEditor.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="365">
+          <caret line="86" column="67" selection-start-line="86" selection-start-column="67" selection-end-line="86" selection-end-column="67" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
